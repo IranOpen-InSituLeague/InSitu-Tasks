@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RoboCup_logo.svg/1200px-RoboCup_logo.svg.png](https://share.google/ldQ10xUKrsi1aOD8S)" width="150" alt="RoboCup Logo">
-
+<img src="https://github.com/user-attachments/assets/cfa3a63b-c881-4753-a00d-dbe801557ac6" width="150" alt="RoboCup Logo">
 # 🤖 لیگ طراحی و ساخت InSitu – ایران‌اوپن
 
 **مرجع رسمی مستندات، قوانین و تسک‌های مسابقات (۲۰۲۴ - ۲۰۲۵)**
