@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/820ae616-b9a9-451a-8efa-46cd4d5400ba" width="250" alt="RoboCup Logo">
+<img src="https://github.com/user-attachments/assets/8f5437a7-6c23-4c69-bc27-d5609c78bd01" width="250" alt="RoboCup Logo">
 
 # 🤖 لیگ طراحی و ساخت InSitu – ایران‌اوپن
 
