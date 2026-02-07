@@ -1,10 +1,12 @@
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/cfa3a63b-c881-4753-a00d-dbe801557ac6" width="150" alt="RoboCup Logo">
 # 🤖 لیگ طراحی و ساخت InSitu – ایران‌اوپن
 
-**مرجع رسمی مستندات، قوانین و تسک‌های مسابقات (۲۰۲۴ - ۲۰۲۵)**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfa3a63b-c881-4753-a00d-dbe801557ac6" width="250" alt="RoboCup Logo">
+</p>
 
+<p align="center">
+  <b>مرجع رسمی مستندات، قوانین و تسک‌های مسابقات (۲۰۲۴ - ۲۰۲۵)</b>
+</p>
 [![License](https://img.shields.io/badge/License-IranOpen-blue.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 [![Season](https://img.shields.io/badge/Season-2024%20%7C%202025-orange.svg)](#)
